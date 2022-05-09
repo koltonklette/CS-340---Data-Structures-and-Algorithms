@@ -1,0 +1,30 @@
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe.config
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.pdb
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.GenerateResource.cache
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.exe
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.pdb
+C:\Users\gamem\Desktop\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csprojAssemblyReference.cache
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe.config
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.pdb
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csprojAssemblyReference.cache
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.GenerateResource.cache
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.exe
+C:\Users\Kolton\Desktop\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.pdb
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe.config
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.exe
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\bin\Debug\Form1.pdb
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csprojAssemblyReference.cache
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Form1.resources
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.Properties.Resources.resources
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.GenerateResource.cache
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.exe
+G:\Stuff To Send Back To PC\Project_5_C_Attempt (2)\Project_5_C_Attempt\Project 5 (C# Attempt)\Form1\obj\Debug\Form1.pdb
